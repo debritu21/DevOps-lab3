@@ -1,0 +1,14 @@
+project name: "AwesomeApp"
+version 2.3.1
+authors: 
+-Alice
+-Bob
+-charlie
+release: true
+environments:
+-name: dev
+-url:dev.exammple.com
+-name:staging
+url: staging.example.com
+-name: production
+url: example.com
